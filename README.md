@@ -6,16 +6,17 @@ Programme d'impression PDF avec mode livret.
 git clone https://github.com/vuillaumetheo10-maker/MultiPDFPrinter.git
 ```
 
-### 2. Installation des dépendances Python :
-
+### 2. Installation des dépendances Python 
+```bash
 pip install -r requirements.txt
-
+```
 
 ###3. Lancement du programme :
 
-Sur PowerShell :
 
+```bash
 python multi_pdf_printer.py
+```
 
 Sinon :
 
