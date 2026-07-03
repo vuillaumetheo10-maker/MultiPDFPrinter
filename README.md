@@ -30,20 +30,7 @@ sinon :
 
 Télécharger : https://www.sumatrapdfreader.org/download
 
-
-✨ Fonctionnalités
-
-    📄 Impression multiple de PDF
-
-    📖 Mode livret automatique
-
-    📐 Formats A4 et A3
-
-    🔄 Recto-verso (simplex/duplex)
-
-    💾 Sauvegarde PDF
-
-📦 Dépendances
+Dépendances
 
     pypdf : Manipulation des PDF
 
