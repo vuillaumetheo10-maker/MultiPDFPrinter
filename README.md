@@ -2,8 +2,9 @@
 Programme d'impression PDF avec mode livret.
 
 ## 1. Installation rapide
-
+```bash
 git clone https://github.com/vuillaumetheo10-maker/MultiPDFPrinter.git
+```
 
 ### 2. Installation des dépendances Python :
 
